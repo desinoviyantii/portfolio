@@ -8,7 +8,7 @@ Berdasarkan variabel target, terdapat 268 pasien positif diabetes dengan persent
 <img width="1100" height="731" alt="image" src="https://github.com/user-attachments/assets/9b0f0efd-85f2-4e39-a701-b9e930ba5d89" />
   <p align="center">
     Distribusi Variabel Bebas
-  </p>
+<p align="justify">
 Variabel Glucose, Blood Pressure, Skin Thickness, Insulin, dan BMI akn dilakukan penanganan missing value karena nilai minumum 0 pada variabel-variabel ini mungkin menunjukkan adanya data yang tidak valid. Sedangkan, variabel Pregnancies dapat memiliki nilai 0 karena variabel ini menggambarkan jumlah kehamilan pasien, sehingga tidak memerlukan penanganan. Namun pada penelitian ini, outliers tidak ditangani secara khusus.
 
 ### **DETEKSI DAN PENANGANAN MISSING VALUE**
